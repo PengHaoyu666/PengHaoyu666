@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:1E3A8A,100:22D3EE&text=Peng%20Haoyu&fontAlign=50&fontAlignY=38&fontColor=F8FAFC&fontSize=56&desc=Agent%20Developer%20%7C%20Deep%20Learning%20%7C%20Transformer%20%7C%20LLM&descAlign=50&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1D4ED8,75:06B6D4,100:67E8F9&text=Peng%20Haoyu&fontAlign=50&fontAlignY=36&fontColor=F8FAFC&fontSize=58&desc=Agent%20Developer%20%7C%20Deep%20Learning%20%7C%20Transformer%20%7C%20LLM&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
 
 ### Hi, I am Peng Haoyu.
 
@@ -9,6 +9,7 @@ Building intelligent agents and learning systems around **LLMs, Transformers, an
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PengHaoyu666&style=flat-square&color=0ea5e9" alt="profile views" />
+  <img src="https://img.shields.io/badge/Age-19-0f172a?style=flat-square&labelColor=111827&color=38bdf8" alt="age" />
   <img src="https://img.shields.io/badge/Focus-Agent%20Development-0f172a?style=flat-square&labelColor=111827&color=22d3ee" alt="focus" />
   <img src="https://img.shields.io/badge/HIT-Postgraduate%20Year%200-0f172a?style=flat-square&labelColor=111827&color=60a5fa" alt="hit" />
 </p>
@@ -19,7 +20,7 @@ Building intelligent agents and learning systems around **LLMs, Transformers, an
 
 ## About Me
 
-I am a Year 0 postgraduate student at **Harbin Institute of Technology**, currently exploring how agents can reason, plan, use tools, retrieve knowledge, and interact with real-world environments.
+I am a 19-year-old Year 0 postgraduate student at **Harbin Institute of Technology**, currently exploring how agents can reason, plan, use tools, retrieve knowledge, and interact with real-world environments.
 
 My work and interests sit around the intersection of:
 
@@ -69,17 +70,35 @@ My work and interests sit around the intersection of:
 
 ---
 
+## What I Am Building Toward
+
+<div align="center">
+
+| Layer | Direction | Keywords |
+| --- | --- | --- |
+| Intelligence | Reasoning, planning, memory, evaluation | `LLM` `Transformer` `Agent` |
+| System | Tool use, workflow orchestration, retrieval | `RAG` `FastAPI` `Vector Search` |
+| Product | Practical AI applications and elegant interaction | `Vue` `React` `TypeScript` |
+| Infrastructure | Reproducible training, deployment, observability | `Docker` `Linux` `Git` |
+
+</div>
+
+---
+
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,js,ts,react,nodejs,fastapi,docker,linux,git,github,vscode&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,js,ts,vue,react,nodejs,fastapi,docker,linux,git,github,vscode&perline=8" alt="skills" />
 </p>
 
 **AI / ML**  
 `PyTorch` | `Transformers` | `Deep Learning` | `LLM` | `RAG` | `Agent` | `Model Evaluation`
 
 **Engineering**  
-`Python` | `FastAPI` | `Docker` | `Linux` | `Git` | `TypeScript` | `React`
+`Python` | `FastAPI` | `Vue` | `React` | `TypeScript` | `Docker` | `Linux` | `Git`
+
+**Application Layer**  
+`Agent Workflow` | `Backend API` | `Frontend UI` | `Automation` | `Data Pipeline`
 
 ---
 
@@ -100,12 +119,12 @@ Agent = LLM reasoning + tool use + memory + environment feedback
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PengHaoyu666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PengHaoyu666&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=PengHaoyu666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=020617&title_color=67e8f9&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub stats" />
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com?user=PengHaoyu666&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=67E8F9&currStreakLabel=67E8F9" alt="GitHub streak" />
 
 <br />
 
-<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengHaoyu666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengHaoyu666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=020617&title_color=67e8f9&text_color=cbd5e1" alt="Top languages" />
 
 </div>
 
@@ -123,6 +142,6 @@ Agent = LLM reasoning + tool use + memory + environment feedback
 
 I am always learning, building, and looking for better ways to make AI agents work in the real world.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,55:1E3A8A,100:0B1020" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:67E8F9,45:1D4ED8,100:020617" alt="footer" width="100%" />
 
 </div>
